@@ -57,8 +57,8 @@
 			isa = PBXGroup;
 			children = (
 				FBF66FF525B756350038F7AC /* Model */,
-				FBF66FF225B7561B0038F7AC /* Supporting Files */,
 				FBF66FF425B7562C0038F7AC /* Storyboards */,
+				FBF66FF225B7561B0038F7AC /* Supporting Files */,
 			);
 			path = AlarmCoreData;
 			sourceTree = "<group>";
@@ -66,6 +66,7 @@
 		FBF66FF225B7561B0038F7AC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FBF66FE725B755D60038F7AC /* LaunchScreen.storyboard */,
 				FBF66FD925B755D40038F7AC /* AppDelegate.swift */,
 				FBF66FDB25B755D40038F7AC /* SceneDelegate.swift */,
 				FBF66FE525B755D60038F7AC /* Assets.xcassets */,
@@ -78,7 +79,6 @@
 			isa = PBXGroup;
 			children = (
 				FBF66FDF25B755D40038F7AC /* Main.storyboard */,
-				FBF66FE725B755D60038F7AC /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
